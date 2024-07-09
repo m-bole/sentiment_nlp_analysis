@@ -1,0 +1,13 @@
+Average sentiment of summaries: 0.3246131474103585
+Average sentiment of full reviews: 0.6350282868525897
+
+Most common POS tags in summaries:
+[('NN', 312), ('JJ', 198), ('NNS', 75), ('RB', 25), ('JJS', 19)]
+
+Sample processed data:
+       Processed_Summary                                   POS_Tags_Summary  Sentiment_Summary
+0  good quality dog food  [(good, JJ), (quality, NN), (dog, NN), (food, ...             0.4404
+1             advertised                                 [(advertised, JJ)]             0.0000
+2           delight says                       [(delight, NN), (says, VBZ)]             0.0000
+3         cough medicine                      [(cough, NN), (medicine, NN)]             0.0000
+4            great taffy                         [(great, JJ), (taffy, NN)]             0.6249
